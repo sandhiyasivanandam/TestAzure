@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{262C90FC-44BB-4370-8F1E-FDD923C9D6CC}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{FA192859-B362-42BB-A4D1-885BA7552F0D}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{B9315DA3-9998-461D-B585-BF8BEE9BDDD8}">
+								<Image FileName="1559224395" Left="-9" Top="-9" Right="1929" Bottom="1039" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageSoftwareTestingMonitoringDev" Key="{8657AF11-C659-4FEB-9143-E02BBB4A05E0}">
+								<Image FileName="-620181945" Left="0" Top="128" Right="1920" Bottom="1028" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://smartbear.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="form" Key="{85CE3D6E-F8A4-487B-AA58-91807D6C0B81}">
+										<Image FileName="-620181945" Left="0" Top="128" Right="1899" Bottom="6976" />
+										<Selectors>
+											<Selector>
+												<Value Value="#form" />
+											</Selector>
+											<Selector>
+												<Value Value="form[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="form[@action=&apos;/&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="headerPLtHeader" Key="{FABDEEB3-92BC-4B61-94D8-AC0DA3CBC671}">
+										<Image FileName="-620181945" Left="0" Top="128" Right="0" Bottom="128" />
+										<Selectors>
+											<Selector>
+												<Value Value="#p_lt_Header" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Products&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeResources" Key="{74B22858-B099-49D9-9027-0EF2A5F94C9F}">
+										<Image FileName="-620181945" Left="1030" Top="128" Right="1219" Bottom="209" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;How to Use ChatGPT in Your Automated Tests&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkResources" Key="{383787E4-B332-4A7C-B722-CD21766834E4}">
+										<Image FileName="-620181945" Left="1064" Top="128" Right="1184" Bottom="209" />
+										<TypeInfo Item0="{F88AE4CA-ACAD-4B4B-A257-EF03F11BA147}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Resources&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/a[@role=&apos;button&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/a[contains(@class, &apos;nav-link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;p_lt_Header&apos;]//li[3]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkDocs" Key="{E31525A0-4B0A-4996-8A60-7948143DFC5C}">
+										<Image FileName="-1653341266" Left="1291" Top="464" Right="1596" Bottom="539" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Docs&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeDocs" Key="{B80E3BB0-97EA-42E6-971E-CD304981AB08}">
+										<Image FileName="-1653341266" Left="1328" Top="464" Right="1596" Bottom="539" />
+										<TypeInfo Item0="{F88AE4CA-ACAD-4B4B-A257-EF03F11BA147}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Docs&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/div[2]/a[3]/span[contains(@class, &apos;item-name&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;documentation&apos;)]/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/div[2]/a[3]/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageSupportSmartbearComDocumenta" Key="{F86577BC-FA31-4FCC-87AB-4830AAC3825C}">
+								<Image FileName="-620181945" Left="0" Top="128" Right="1920" Bottom="1028" />
+								<TypeInfo Item0="{3B3D43E6-0221-4FEA-8E2A-902C76F86CA7}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://support.smartbear.com/documentation/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeSwaggerhub" Key="{65578EEA-966A-4E4B-8AEC-C97805CB395C}">
+										<Image FileName="1588021545" Left="1141" Top="574" Right="1266" Bottom="608" />
+										<TypeInfo Item0="{F88AE4CA-ACAD-4B4B-A257-EF03F11BA147}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;SwaggerHub&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[22]/a/span[contains(@class, &apos;item-name&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{FA192859-B362-42BB-A4D1-885BA7552F0D}">
+			<Child Name="BrowserWindow" Owner="{B9315DA3-9998-461D-B585-BF8BEE9BDDD8}" />
+			<Child Name="pageSoftwareTestingMonitoringDev" Owner="{8657AF11-C659-4FEB-9143-E02BBB4A05E0}">
+				<Child Name="form" Owner="{85CE3D6E-F8A4-487B-AA58-91807D6C0B81}">
+					<Child Name="headerPLtHeader" Owner="{FABDEEB3-92BC-4B61-94D8-AC0DA3CBC671}">
+						<Child Name="textnodeResources" Owner="{74B22858-B099-49D9-9027-0EF2A5F94C9F}">
+							<Child Name="linkResources" Owner="{383787E4-B332-4A7C-B722-CD21766834E4}" />
+						</Child>
+						<Child Name="linkDocs" Owner="{E31525A0-4B0A-4996-8A60-7948143DFC5C}">
+							<Child Name="textnodeDocs" Owner="{B80E3BB0-97EA-42E6-971E-CD304981AB08}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageSupportSmartbearComDocumenta" Owner="{F86577BC-FA31-4FCC-87AB-4830AAC3825C}">
+				<Child Name="textnodeSwaggerhub" Owner="{65578EEA-966A-4E4B-8AEC-C97805CB395C}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

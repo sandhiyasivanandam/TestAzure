@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{579776B6-1CB9-4C74-B9C5-131079C91A6B}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45134.4241203704" objectName="Aliases.browser.pageSoftwareTestingMonitoringDev.form.headerPLtHeader.textnodeResources.linkResources" objectLeft="1064" objectTop="128" objectRight="1184" objectBottom="209" clickPointX="1192" clickPointY="166" imageFileName="tcvi842859203413643.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45134.4241435185" objectName="Aliases.browser.pageSoftwareTestingMonitoringDev.form.headerPLtHeader.linkDocs.textnodeDocs" objectLeft="1328" objectTop="464" objectRight="1596" objectBottom="539" clickPointX="1417" clickPointY="503" imageFileName="tcvi842860796413644.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45134.4241666667" objectName="Aliases.browser.pageSupportSmartbearComDocumenta.textnodeSwaggerhub" objectLeft="1141" objectTop="574" objectRight="1266" objectBottom="608" clickPointX="1186" clickPointY="596" imageFileName="tcvi842863328413645.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
